@@ -54,8 +54,6 @@ A full-featured search engine combining Google API for web search and MongoDB fo
 
 ## 📊 GitHub Stats
 
-![Sedik's GitHub stats](https://github-readme-stats.vercel.app/api?username=SedikDarragi&show_icons=true&theme=dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SedikDarragi&layout=compact&theme=dark&hide_border=true)
 
 ## 🎯 What I'm Working On
