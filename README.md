@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Sedik Darragi
+# Hey there! 👋
 
 Welcome to my GitHub profile! I'm a passionate computer science student at **IMSET** (Institut Méditerranéen des Sciences de l'Ingénieur et de la Technologie) with a love for building innovative solutions and exploring cutting-edge technologies.
 
