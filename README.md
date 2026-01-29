@@ -1,8 +1,8 @@
-# Hey there! 👋
+# Hey there! 
 
 Welcome to my GitHub profile! I'm a passionate computer science student at **IMSET** (Institut Méditerranéen des Sciences de l'Ingénieur et de la Technologie) with a love for building innovative solutions and exploring cutting-edge technologies.
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Computer Science Student at IMSET
 - 💻 Full-stack developer with experience across multiple programming languages
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate computer science student at **IMS
 - 🔭 Interested in blockchain, web development, systems programming, and database management
 - 📍 Based in Tunisia
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate computer science student at **IMS
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Google API](https://img.shields.io/badge/-Google%20API-4285F4?style=flat-square&logo=google&logoColor=white)
 
-## 🎯 Featured Projects
+## Featured Projects
 
 ### 🌿 [EcoBlock](https://github.com/SedikDarragi/EcoBlock)
 A decentralized application (DApp) leveraging Web3 and blockchain technology to promote environmental sustainability.
@@ -52,18 +52,18 @@ A full-featured search engine combining Google API for web search and MongoDB fo
 - **Tech Stack**: JavaScript, Google API, MongoDB
 - **Features**: Dual search capabilities (web + local database)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SedikDarragi&layout=compact&theme=dark&hide_border=true)
 
-## 🎯 What I'm Working On
+## What I'm Working On
 
 - 🔭 Exploring advanced blockchain development and DeFi protocols
 - 🌱 Learning cloud technologies and DevOps practices
 - 💡 Building more sustainable tech solutions
 - 📱 Expanding into mobile development
 
-## 💬 Let's Connect!
+## Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities!
 
