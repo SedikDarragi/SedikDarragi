@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a passionate computer science student at **IMS
 
 ## About Me
 
-- 🎓 Computer Science Student at IMSET
-- 💻 Full-stack developer with experience across multiple programming languages
-- 🌱 Always learning and exploring new technologies
-- 🔭 Interested in blockchain, web development, systems programming, and database management
-- 📍 Based in Tunisia
+- Computer Science Student at IMSET
+- Full-stack developer with experience across multiple programming languages
+- Always learning and exploring new technologies
+- Interested in blockchain, web development, systems programming, and database management
+- Based in Tunisia
 
 ## Tech Stack
 
@@ -32,22 +32,22 @@ Welcome to my GitHub profile! I'm a passionate computer science student at **IMS
 
 ## Featured Projects
 
-### 🌿 [EcoBlock](https://github.com/SedikDarragi/EcoBlock)
+### [EcoBlock](https://github.com/SedikDarragi/EcoBlock)
 A decentralized application (DApp) leveraging Web3 and blockchain technology to promote environmental sustainability.
 - **Tech Stack**: TypeScript, Web3, Blockchain
 - **Impact**: Contributing to environmental conservation through blockchain innovation
 
-### 💊 [Pharmacy Management Database](https://github.com/SedikDarragi/Pharmacy-Management-Database)
+### [Pharmacy Management Database](https://github.com/SedikDarragi/Pharmacy-Management-Database)
 A comprehensive Java-based UI application for managing pharmaceutical products with local database integration.
 - **Tech Stack**: Java, Local Database
 - **Features**: Complete pharmacy inventory management system
 
-### 🖥️ [MinimalistOS](https://github.com/SedikDarragi/MInimalistOS)
+### [MinimalistOS](https://github.com/SedikDarragi/MInimalistOS)
 A lightweight operating system built from scratch using C, featuring a bash interface and essential functionalities.
 - **Tech Stack**: C, Bash
 - **Achievement**: Built a functional OS with core system capabilities
 
-### 🔍 [Search Engine Website](https://github.com/SedikDarragi/Search-Engine-website)
+### [Search Engine Website](https://github.com/SedikDarragi/Search-Engine-website)
 A full-featured search engine combining Google API for web search and MongoDB for local search functionality.
 - **Tech Stack**: JavaScript, Google API, MongoDB
 - **Features**: Dual search capabilities (web + local database)
@@ -58,22 +58,22 @@ A full-featured search engine combining Google API for web search and MongoDB fo
 
 ## What I'm Working On
 
-- 🔭 Exploring advanced blockchain development and DeFi protocols
-- 🌱 Learning cloud technologies and DevOps practices
-- 💡 Building more sustainable tech solutions
-- 📱 Expanding into mobile development
+- Exploring advanced blockchain development and DeFi protocols
+- Learning cloud technologies and DevOps practices
+- Building more sustainable tech solutions
+- Expanding into mobile development
 
 ## Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-- 💼 Looking for internship opportunities and exciting projects
-- 🤝 Open to collaborating on open source projects
-- 💡 Interested in blockchain, sustainability tech, and system programming
-- 📫 Feel free to reach out for any questions or discussions!
+- Looking for internship opportunities and exciting projects
+- Open to collaborating on open source projects
+- Interested in blockchain, sustainability tech, and system programming
+- Feel free to reach out for any questions or discussions!
 
 ---
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
-⭐ **Fun fact**: I enjoy building projects that make a positive impact on both technology and the environment!
+**Fun fact**: I enjoy building projects that make a positive impact on both technology and the environment!
