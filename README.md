@@ -1,10 +1,9 @@
 # Hey there! 
 
-Welcome to my GitHub profile! I'm a passionate computer science student at **IMSET** (Institut Méditerranéen des Sciences de l'Ingénieur et de la Technologie) with a love for building innovative solutions and exploring cutting-edge technologies.
+Welcome to my GitHub profile! I'm a passionate Software Developer with a love for building innovative solutions and exploring cutting-edge technologies.
 
 ## About Me
 
-- Computer Science Student at IMSET
 - Full-stack developer with experience across multiple programming languages
 - Always learning and exploring new technologies
 - Interested in blockchain, web development, systems programming, and database management
