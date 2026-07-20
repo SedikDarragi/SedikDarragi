@@ -53,7 +53,10 @@ A comprehensive commercial management application built with Python and customtk
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SedikDarragi&layout=compact&theme=dark&hide_border=true)
+![](https://github-readme-stats.shion.dev/api?username=SedikDarragi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SedikDarragi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SedikDarragi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## What I'm Working On
 
