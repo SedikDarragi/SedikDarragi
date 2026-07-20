@@ -31,25 +31,25 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with a love fo
 
 ## Featured Projects
 
-### [EcoBlock](https://github.com/SedikDarragi/EcoBlock)
-A decentralized application (DApp) leveraging Web3 and blockchain technology to promote environmental sustainability.
-- **Tech Stack**: TypeScript, Web3, Blockchain
-- **Impact**: Contributing to environmental conservation through blockchain innovation
-
-### [Pharmacy Management Database](https://github.com/SedikDarragi/Pharmacy-Management-Database)
-A comprehensive Java-based UI application for managing pharmaceutical products with local database integration.
-- **Tech Stack**: Java, Local Database
-- **Features**: Complete pharmacy inventory management system
-
 ### [MinimalistOS](https://github.com/SedikDarragi/MInimalistOS)
 A lightweight operating system built from scratch using C, featuring a bash interface and essential functionalities.
 - **Tech Stack**: C, Bash
 - **Achievement**: Built a functional OS with core system capabilities
 
+### [EcoBlock](https://github.com/SedikDarragi/EcoBlock)
+A decentralized application (DApp) leveraging Web3 and blockchain technology to promote environmental sustainability.
+- **Tech Stack**: TypeScript, Web3, Blockchain
+- **Impact**: Contributing to environmental conservation through blockchain innovation
+
 ### [Search Engine Website](https://github.com/SedikDarragi/Search-Engine-website)
 A full-featured search engine combining Google API for web search and MongoDB for local search functionality.
 - **Tech Stack**: JavaScript, Google API, MongoDB
 - **Features**: Dual search capabilities (web + local database)
+
+### [GCS](https://github.com/SedikDarragi/GCS)
+A comprehensive commercial management application built with Python and customtkinter for small to medium businesses.
+- **Tech Stack**: Python, Local Database
+- **Features**: Complete inventory management system.
 
 ## GitHub Stats
 
